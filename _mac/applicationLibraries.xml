@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack-dev-middleware" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

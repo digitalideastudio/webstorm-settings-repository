@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="objk" value="Object.keys($END$)" description="Object.keys()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="obja" value="Object.assign({}, $END$)" description="Object.assign)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
