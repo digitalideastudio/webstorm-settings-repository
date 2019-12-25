@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reformat, Lint &amp; Save All">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application> 
